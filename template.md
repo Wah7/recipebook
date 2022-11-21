@@ -1,5 +1,6 @@
 ### TITLE HERE
 ---
+- Author:
 - Prep Time:
 - Cooking Time:
 - Servings: 
