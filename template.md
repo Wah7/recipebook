@@ -1,6 +1,7 @@
 ### TITLE HERE
 ---
 - Author:
+- Origin:
 - Prep Time:
 - Cooking Time:
 - Servings: 
@@ -15,4 +16,10 @@
 
 - equipment
 ---
+### INSTRUCTIONS:
+
 1. INSTRUCTIONS HERE
+---
+### NOTES:
+
+-notes
